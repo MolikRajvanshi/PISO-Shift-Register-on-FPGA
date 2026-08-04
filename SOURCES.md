@@ -57,16 +57,6 @@
 
 ---
 
-## Documentation Tools
-
-| Tool | Purpose |
-|---|---|
-| **LaTeX** (pdfLaTeX) | Full project report (`main.tex`) with professional formatting, code listings, tables, and figures. |
-| **`listings` package** | Syntax-highlighted VHDL and XDC code listings in the LaTeX report. |
-| **`hyperref` package** | Clickable cross-references and URLs in the PDF report. |
-
----
-
 ## Quick Reference Links
 
 - [Nexys 4 DDR Reference Manual](https://reference.digilentinc.com/nexys4-ddr)
