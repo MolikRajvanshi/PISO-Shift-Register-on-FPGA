@@ -1,0 +1,40 @@
+# ─── Vivado Project Files (regenerated on project open) ───
+*.jou
+*.log
+*.str
+*.xpr
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/
+*.gen/
+
+# ─── Bitstream (large binary, optional to include) ───
+# Uncomment the line below to exclude bitstreams:
+# *.bit
+# *.bin
+# *.ltx
+
+# ─── LaTeX Build Artifacts ───
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.toc
+*.synctex.gz
+*.pdf
+
+# ─── OS Files ───
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ─── IDE ───
+.vscode/
+.idea/
