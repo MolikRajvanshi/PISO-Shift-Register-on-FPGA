@@ -17,7 +17,8 @@
 # *.bin
 # *.ltx
 
-# ─── LaTeX Build Artifacts ───
+# ─── LaTeX / Report (not published) ───
+main.tex
 *.aux
 *.bbl
 *.blg
@@ -29,6 +30,9 @@
 *.toc
 *.synctex.gz
 *.pdf
+
+# ─── Unused assets ───
+images/lnmiit_logo.png
 
 # ─── OS Files ───
 Thumbs.db
