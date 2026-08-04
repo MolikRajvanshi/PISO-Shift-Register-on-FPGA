@@ -109,7 +109,6 @@ A complete 8-bit transmission takes approximately **5.37 seconds**.
 piso_project/
 ├── README.md                       # This file
 ├── SOURCES.md                      # Detailed references and sources used
-├── main.tex                        # Full LaTeX project report
 │
 ├── code/
 │   ├── piso.vhd                    # Synthesizable PISO shift register + clock divider
@@ -245,7 +244,7 @@ After programming the bitstream, the design was tested with five input patterns:
 | **Vivado Simulator (xsim)** | Integrated | Behavioural simulation and waveform analysis |
 | **Nexys 4 DDR** | Rev C | FPGA development board |
 | **Artix-7 FPGA** | XC7A100T-1CSG324C | Target FPGA device |
-| **LaTeX** | TeX Live / pdfLaTeX | Project documentation and report |
+
 
 ---
 
